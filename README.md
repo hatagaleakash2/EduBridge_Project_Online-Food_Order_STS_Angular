@@ -8,7 +8,7 @@ NODE Version: - 12.14.1;
 NPM Version : - 6.9.0
 ng serve;
 
-https://www.youtube.com/watch?v=D1qjmCifhVI  
+
 
 Create Databases myusers;
 
